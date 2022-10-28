@@ -1,0 +1,18 @@
+alias: "jek1"
+title: "still awake"
+description: "an esoteric security blog"
+seo_keywords: "hack the box, htb, tryhackme, thm, offensive security, offsec, vulnhub, capture the flag, ctf, binary exploitation, binary exploit, bin exploit, pwn, boot to root, boot2root, penetration testing, pentest, exploit development, exploit dev, security research, cve, writeup, vulnerablity " 
+baseurl: "/"
+url: "https://jek1.co"
+domain: "jek1.co"
+markdown: kramdown
+
+matrix: "@jek1:matrix.org"
+telegram: "notjek1"
+twitter: "notjek1"
+email: "jek1@hexity.org"
+
+github: "notjek1"
+ctftime: "147147"
+stackoverflow : "20342505"
+hackthebox: "200315"
